@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/components/home.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/news/newsInfo.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/news/newslist.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/photo/photoinfo.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/photo/photolist.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/subcom/comment.vue" charset="UTF-8" />
+  </component>
+</project>
